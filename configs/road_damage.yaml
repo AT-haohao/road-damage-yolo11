@@ -1,0 +1,11 @@
+# Road damage detection dataset
+path: ../datasets/road
+train: images/train
+val: images/val
+test:
+
+names:
+  0: person
+  1: car
+  2: trafficcone
+  3: pothole
